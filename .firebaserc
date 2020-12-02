@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-fotos-62edb": {
+      "hosting": {
+        "fotosfirebase": [
+          "fir-fotos-62edb"
+        ]
+      }
+    }
+  }
+}
